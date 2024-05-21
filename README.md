@@ -236,58 +236,58 @@ If you want the full report of project
 
 **Resume Analysis**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/2-analysis.jpg?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/user/2-analysis.jpg)
 
 **Skill Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/3-recom.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/user/3-recom.png)
 
 **Course Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/4-recom.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/user/4-recom.png)
 
 **Tips and Overall Score**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/5-tipsscore.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/user/5-tipsscore.png)
 
 **Video Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/6-recom.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/user/6-recom.png)
 
 ### Feedback
 
 **Feedback Form**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/feedback/1-form.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/feedback/1-form.png)
 
 **Overall Rating Analysis and Comment History**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/feedback/2-analytics.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/feedback/2-analytics.png)
 
 ### Admin
 
 **Login**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/1-main-screen.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/admin/1-main-screen.png)
 
 **User Count and it's data**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/2-user-data.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/admin/2-user-data.png)
 
 **Exported csv file**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/3-user-datacsv.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/admin/3-user-datacsv.png)
 
 **Feedback Data**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/4-feed-data.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/admin/4-feed-data.png)
 
 **Pie Chart Analytical Representation of clusters**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/5-pieexp.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/admin/5-pieexp.png)
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/6-piescre.jpg?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/admin/6-piescre.jpg)
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/admin/6-piescre.jpg)
 
 ### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a>
