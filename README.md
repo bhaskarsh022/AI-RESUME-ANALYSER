@@ -1,6 +1,6 @@
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
-![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=5th%20Sem%20Final%20Year%20Project%20at%20Kirti%20M%20Doongursee%20College%20(2022%20-%2023)&font=Raleway&language=1&pattern=Plus&theme=Light)
+![AI-Resume-Analyzer](https://assets-global.website-files.com/5fc212183117036dc3c635d0/64511d56dba0dce91aa26ccc_Best%20AI%20Resume%20Builders-p-1080.png)
 
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
