@@ -290,4 +290,4 @@ If you want the full report of project
 
 ![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/admin/6-piescre.jpg)
 
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a>
+### Built with 🤍 AI RESUME ANALYZER by <a href="https://github.com/bhaskarsh022">Bhaskar Sharma</a>
