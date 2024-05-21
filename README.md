@@ -1,7 +1,7 @@
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
 ![AI-Resume-Analyzer](https://assets-global.website-files.com/5fc212183117036dc3c635d0/64511d56dba0dce91aa26ccc_Best%20AI%20Resume%20Builders-p-1080.png)
-
+![MIT LOGO](https://www.facebook.com/photo/?fbid=260809166652003&set=a.260809159985337)
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
@@ -22,8 +22,8 @@
       <a href="https://www.linkedin.com/in/mrbriit/](https://www.linkedin.com/in/bhaskar-sharma-8070bb1ba/">LINKEDIN</a>
      </small>
   </p>
-  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.sc CS at 
-    <a href="https://kirticollege.edu.in/">Kirti College</a> during academic year 2022-23
+  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.C.A. 
+    <a href="https://mitmeerut.ac.in/">MIT College</a> during academic year 2022-23
   </small>
 </div><br/><br/>
 
