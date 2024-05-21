@@ -2,7 +2,28 @@
 
 ![AI-Resume-Analyzer](https://assets-global.website-files.com/5fc212183117036dc3c635d0/64511d56dba0dce91aa26ccc_Best%20AI%20Resume%20Builders-p-1080.png)
 ![MIT LOGO](https://mitmeerut.ac.in/assets/frontend/images/mit_shell_new.png)
-
+ <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Center Images</title>
+    <style>
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Optional: to vertically center in the viewport */
+            text-align: center; /* Center-aligns the text content */
+        }
+        .center img {
+            margin: 10px; /* Optional: adds space between images */
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        <img src="https://assets-global.website-files.com/5fc212183117036dc3c635d0/64511d56dba0dce91aa26ccc_Best%20AI%20Resume%20Builders-p-1080.png" alt="AI-Resume-Analyzer">
+        <img src="https://mitmeerut.ac.in/assets/frontend/images/mit_shell_new.png" alt="MIT Logo">
+    </div>
+</body>
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
