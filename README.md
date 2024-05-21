@@ -1,7 +1,7 @@
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
 ![AI-Resume-Analyzer](https://assets-global.website-files.com/5fc212183117036dc3c635d0/64511d56dba0dce91aa26ccc_Best%20AI%20Resume%20Builders-p-1080.png)
-![MIT LOGO](https://www.facebook.com/photo/?fbid=260809166652003&set=a.260809159985337)
+![MIT LOGO](https://mitmeerut.ac.in/assets/frontend/images/mit_shell_new.png)
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
