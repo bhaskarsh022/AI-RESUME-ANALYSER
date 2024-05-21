@@ -29,7 +29,7 @@
 
 ## About the Project 🥱
 <div align="center">
-    <br/><img src="https://photos.google.com/photo/AF1QipNg6FxQjwQMeNrb1VAhtPFXgSlq19gUzZpfam50" alt="screenshot" /><br/><br/>
+    <br/><img src="https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
