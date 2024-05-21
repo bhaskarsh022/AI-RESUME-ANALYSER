@@ -1,8 +1,7 @@
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
-![AI-Resume-Analyzer](https://assets-global.website-files.com/5fc212183117036dc3c635d0/64511d56dba0dce91aa26ccc_Best%20AI%20Resume%20Builders-p-1080.png)
-![MIT LOGO](https://mitmeerut.ac.in/assets/frontend/images/mit_shell_new.png)
-    <a href="https://example.com">
+
+    <a href="https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/README.md">
         <img src="https://assets-global.website-files.com/5fc212183117036dc3c635d0/64511d56dba0dce91aa26ccc_Best%20AI%20Resume%20Builders-p-1080.png" 
              alt="AI-Resume-Analyzer" 
              class="center-image" />
