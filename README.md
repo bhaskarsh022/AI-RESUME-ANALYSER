@@ -27,8 +27,8 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a> through 
-      <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
+      <a href="https://dnoobnerd.netlify.app/](https://github.com/bhaskarsh022">BHASKAR SHARMA</a> through 
+      <a href="https://www.linkedin.com/in/mrbriit/](https://www.linkedin.com/in/bhaskar-sharma-8070bb1ba/">LINKEDIN</a>
      </small>
   </p>
   <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.sc CS at 
