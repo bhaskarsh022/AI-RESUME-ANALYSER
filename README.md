@@ -232,7 +232,7 @@ If you want the full report of project
 
 **Main Screen**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/1-main-screen.png?raw=true)
+![Screenshot](https://github.com/bhaskarsh022/AI-RESUME-ANALYSER/blob/main/screenshots/admin/1-main-screen.png)
 
 **Resume Analysis**
 
